@@ -3,8 +3,6 @@
 # 💻 OPEN-Small11-OS | The Ultralight Windows Experience
 > **"Performance, revived. Perfect for low-storage devices."**
 
-![Small11 Banner](<img width="1666" height="912" alt="Tiny11" src="https://github.com/user-attachments/assets/85d3c769-17fb-4c42-b96b-e3be61e858ab" />) *(Note: Ensure your image is named 'image.png' and is in the same folder, or update this link)*
-
 **OPEN-Small11-OS** is a custom, heavily stripped-down version of Windows 11 designed specifically for devices where storage space and RAM are at a premium. This project focuses on removing the bloat to deliver a fast, responsive, and minimalist operating system.
 
 ---
